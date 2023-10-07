@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+    text-align: center;
+    color: #333;
+}
+
+p, li {
+    color: #666;
+    line-height: 1.5;
+}
+
+.server-info, .server-rules, .server-advantages, .server-images, .toolbox-link {
+    background-color: #e9e9e9;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.toolbox-link a {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a{
+  text-decoration: none;
+}
+.to-index{
+  color: #333
+}
